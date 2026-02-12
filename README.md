@@ -1,16 +1,41 @@
-## Hi there 👋
+![Bannière](./banner.png)
 
-<!--
-**nathan-5349/nathan-5349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Salut, moi c’est Nathan Dubois
 
-Here are some ideas to get you started:
+🎓 Étudiant en **BTS SIO option SLAM**  
+💼 **Développeur RPA en alternance** à la DGFIP  
+🎯 Objectif : poursuivre en **Licence Informatique**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Stack & compétences techniques
+- **Langages** : C, C#, Java, PHP  
+- **Frameworks / UI** : WPF, React, Bootstrap, Tailwind  
+- **Web** : HTML, CSS, JavaScript  
+- **Base de données** : SQL (MCD, MLD)  
+- **Outils** : Git, GitHub, GitLab  
+- **Méthodes** : UML, cycle en V, Agile  
+- **Autres** : UiPath (RPA), notions RGPD, développement sécurisé
+
+---
+
+### 🏗️ Expérience
+**Développeur RPA – DGFIP**  
+📍 Alternance – depuis septembre 2024 / En cours 
+- Développement de robots UiPath  
+- Automatisation de processus métiers  
+- Optimisation des performances et réduction des erreurs humaines  
+
+---
+
+### 🏸 À propos
+- Badminton en compétition depuis l’enfance  
+- GEO niveau 2 (organisation de compétitions)
+
+---
+
+### 📫 Me contacter
+- GitHub : https://github.com/nathan-5349  
+- LinkedIn : https://www.linkedin.com/in/nathan-dubois-602026382  
+- Portfolio : https://nathandubois.vercel.app
+
